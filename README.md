@@ -12,7 +12,7 @@ I'm a motivated professional with a background in **management, sustainability, 
 - 🌱 Continuously learning and expanding my technical skillset
 - 🎓 MSc in Sustainability & Tourism Management (University of Trento) + BSc in Management & Marketing (University of Bologna)
 - 🌍 Fluent in **Italian**, **English**, and **Spanish**
-- ⚡ Fun fact: Before coding, I conducted energy audits, coordinated 10+ sports events, and managed teams of 15+ staff
+- ⚡ Fun fact: Before coding, I conducted energy audits, coordinated sports events, and worked with teams of 15+ staff
 
 ---
 
