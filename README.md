@@ -43,7 +43,7 @@ I'm a motivated professional with a background in **management, sustainability, 
 
 #### 🏆 [Challenges App](https://github.com/mbudellini/challenges_app)
 > A full-stack daily challenges platform to push your limits.  
-> **Live demo:** [todaychallenge.vercel.app](https://todaychallenge.vercel.app)  
+> **Live demo:** soon!
 > **Tech:** React Native, Node.js, Express, MongoDB  
 > **Features:** Separate frontend and backend architecture, React Native for cross-platform potential, challenge creation and tracking system.
 
