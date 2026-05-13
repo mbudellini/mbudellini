@@ -52,10 +52,6 @@ I'm a motivated professional with a background in **management, sustainability, 
 > **Tech:** HTML, CSS  
 > **Features:** Responsive layout recreating the iconic WhatsApp chat interface, focusing on clean design and CSS mastery.
 
-#### 🌐 [Portfolio Website](https://github.com/mbudellini/my_portfolio_1)
-> Personal portfolio showcasing projects and skills.  
-> **Tech:** HTML, CSS  
-> **Features:** Custom animations, responsive design, and a clean professional layout.
 
 #### 📄 [Single Page Website](https://github.com/mbudellini/01_single_page_website)
 > A clean, responsive single-page landing website.  
