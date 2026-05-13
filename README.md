@@ -60,19 +60,11 @@ I'm a motivated professional with a background in **management, sustainability, 
 
 ---
 
-### 📊 GitHub Stats
-
-![Matteo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbudellini&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbudellini&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-matteo.budellini@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matteo.budellini@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mbudellini-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mbudellini)
-[![Location](https://img.shields.io/badge/Location-Barcelona,%20Spain-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)]()
+
 
 ---
 
