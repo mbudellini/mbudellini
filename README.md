@@ -1,4 +1,3 @@
-<![CDATA[
 # Hi there, I'm Matteo 👋
 
 **Full Stack Developer** based in Barcelona 🇪🇸
