@@ -81,5 +81,4 @@ I'm a motivated professional with a background in **management, sustainability, 
 
 ---
 
-> *"From energy consulting to full stack development — bringing business insight into every line of code."*
-]]># mbudellini
+# mbudellini
