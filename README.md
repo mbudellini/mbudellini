@@ -4,19 +4,19 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 I'm a motivated professional with a background in **management, sustainability, and energy consulting**, now fully immersed in **full stack web development**. After completing an intensive Full Stack Bootcamp at **Barcelona Code School**, I'm building real-world projects that combine my business acumen with modern web technologies.
 
-- 🔭 Currently working on full-stack web applications with **React**, **Node.js**, and **MongoDB**
-- 🌱 Continuously learning and expanding my technical skillset
-- 🎓 MSc in Sustainability & Tourism Management (University of Trento) + BSc in Management & Marketing (University of Bologna)
-- 🌍 Fluent in **Italian**, **English**, and **Spanish**
-- ⚡ Fun fact: Before coding, I conducted energy audits, coordinated sports events, and worked with teams of 15+ staff
+- Currently working on full-stack web applications with **React**, **Node.js**, and **MongoDB**
+- Continuously learning and expanding my technical skillset
+- MSc in Sustainability & Tourism Management (University of Trento) + BSc in Management & Marketing (University of Bologna)
+- Fluent in **Italian**, **English**, and **Spanish**
+- Fun fact: Before coding, I conducted energy audits, coordinated sports events, and worked with teams of 15+ staff
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -33,27 +33,27 @@ I'm a motivated professional with a background in **management, sustainability, 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🎵 [W__Records — Vinyl Record Store](https://github.com/mbudellini/w__records)
+####  [W__Records — Vinyl Record Store](https://github.com/mbudellini/w__records)
 > A full-stack e-commerce application for vinyl record enthusiasts.  
 > **Live demo:** [disqueriawhat.vercel.app](https://disqueriawhat.vercel.app)  
 > **Tech:** React, Vite, Node.js, Express, MongoDB, JWT Authentication, Vercel  
 > **Features:** Complete frontend with React Router navigation, custom backend API with controllers/models/routes architecture, secure JWT authentication with `jose`, and full deployment on Vercel.
 
-#### 🏆 [Challenges App](https://github.com/mbudellini/challenges_app)
+####  [Challenges App](https://github.com/mbudellini/challenges_app)
 > A full-stack daily challenges platform to push your limits.  
 > **Live demo:** soon!
 > **Tech:** React Native, Node.js, Express, MongoDB  
 > **Features:** Separate frontend and backend architecture, React Native for cross-platform potential, challenge creation and tracking system.
 
-#### 📱 [WhatsApp Clone](https://github.com/mbudellini/Whatsapp_clone)
+#### [WhatsApp Clone](https://github.com/mbudellini/Whatsapp_clone)
 > A pixel-perfect UI clone of WhatsApp built from scratch.  
 > **Tech:** HTML, CSS  
 > **Features:** Responsive layout recreating the iconic WhatsApp chat interface, focusing on clean design and CSS mastery.
 
 
-#### 📄 [Single Page Website](https://github.com/mbudellini/01_single_page_website)
+#### [Single Page Website](https://github.com/mbudellini/01_single_page_website)
 > A clean, responsive single-page landing website.  
 > **Tech:** HTML, CSS  
 > **Features:** Modern layout design, smooth scrolling, and mobile-first responsive approach.
