@@ -38,7 +38,7 @@ I'm a motivated professional with a background in **management, sustainability, 
 ####  [Disqueria What — Vinyl Record Store](https://github.com/mbudellini/w__records)
 > A full-stack e-commerce application for vinyl record enthusiasts.  
 > **Live demo:** [disqueriawhat.vercel.app](https://disqueriawhat.vercel.app)  
-> **Tech:** React, Vite, Node.js, Express, MongoDB, JWT Authentication, Vercel, Discogs API 
+> **Tech:** React, Vite, Node.js, Express, MongoDB, JWT Authentication, Vercel, Discogs API
 > **Features:** Complete frontend with React Router navigation, custom backend API with controllers/models/routes architecture, secure JWT authentication with `jose`, and full deployment on Vercel.
 
 ####  [Challenges App](https://github.com/mbudellini/challenges_app)
